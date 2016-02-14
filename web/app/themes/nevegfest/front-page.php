@@ -72,26 +72,16 @@
 		<div class="container-fluid">
 			<h3>Silver Partners</h3>
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/organic-living.png" alt="Organic Living Superfoods" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegan-treats.png" alt="Vegan Treats" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegfund.png" class="square" alt="VefFund" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/well-fed-world.png" class="square" alt="Well Fed World" />
 		</div>
 	</div>
 	<div class="col-xs-12" id="bronze">
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/humaneleague-logo.png" class="square" alt="Humane League" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/tofutti.png" class="square" alt="Tofutti" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/VeganProteins.png" alt="Vegan Proteins" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wegmans.png" alt="Wegmans" />
 	</div>-->
 </div>
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-			<script type="text/javascript"> function init_map(){var myOptions = {draggable:false,zoom:8,center:new google.maps.LatLng(42.265458,-71.79876),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(42.265458,-71.79876),icon: '//newenglandvegfest.com/app/themes/nevegfest/assets/img/nevf-map.png'});infowindow = new google.maps.InfoWindow({content:"<b>New England VegFest @DCU Center</b><br/>50 Foster Street<br/> Worcester, MA<br/><a href='https://www.google.com/maps/place/DCU+Center/@42.265458,-71.79876,15z/data=!4m2!3m1!1s0x0:0xc9f01cb8c1571d7a' target='_blank'>Directions</a>" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
+			<script type="text/javascript"> function init_map(){var myOptions = {draggable:false,zoom:8,center:new google.maps.LatLng(37.7990182,-122.2629028),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(37.7990182,-122.2629028),icon: '//newenglandvegfest.com/app/themes/nevegfest/assets/img/nevf-map.png'});infowindow = new google.maps.InfoWindow({content:"<b>Oakland VegFest @Lake Merritt Amphitheater</b><br/>Between 12th St & 1st Ave on Lake Merritt Blvd<br/> Oakland, CA<br/><a href='https://www.google.com/maps/place/Lake+Merritt+Amphitheater/@37.7990182,-122.2629028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f873433e19613:0x42896152be34d0d4' target='_blank'>Directions</a>" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
 <?php get_template_part('templates/content', 'page'); ?>
