@@ -1,6 +1,6 @@
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="container-fluid" id="about" class="32">
-	<p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle.</p>
+	<p>The Oakland VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle.</p>
 </div>
 <div id="features">
 	<div class="box">
@@ -20,7 +20,7 @@
 		<img src="/app/themes/nevegfest/assets/img/icon-Speakers.png" alt="" />
 	</div>
 	<div class="box">
-		<p>Cooking Demos</p>
+		<p>Fun Recipes</p>
 		<img src="/app/themes/nevegfest/assets/img/icon-CookingDemos.png" alt="" />
 	</div>
 	<div class="box">
@@ -40,7 +40,7 @@
 		<img src="/app/themes/nevegfest/assets/img/icon-VegBiz.png" alt="" />
 	</div>
 	<div class="box">
-		<p>Raffle Prizes</p>
+		<p>Goodie Bags</p>
 		<img src="/app/themes/nevegfest/assets/img/icon-prizes.png" alt="" />
 	</div>
 </div>
