@@ -43,9 +43,9 @@
 			</div>
 		</div>
 	</div>
-	<div id="credit" class="container-fluid">
+	<!-- <div id="credit" class="container-fluid">
 		<a href="http://vegworcester.com" target="_blank"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by VegWorcester" /></a>
-	</div>
+	</div> -->
 </footer>
 <div id="contact" class="modal fade in">
             <div class="modal-header">
@@ -57,7 +57,7 @@
 							<p class="gold">For general inquiries, contact <a href="mailto:info@oaklandveg.com">info@oaklandveg.com</a>.</p>
 							</div><div class="col-sm-6">
               <h3>Connect with OaklandVegFest</h3>
-							<div class="ctas">
+							<div class="ctas" style="font-size: 14px">
 								<a class="cta" href="//www.facebook.com/events/818240381635344/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
 								<a class="cta" href="https://twitter.com/hashtag/OaklandVegFest" target="_blank"><i class="fa fa-twitter"></i> #OaklandVegFest</a>
 								<a class="cta" href="https://instagram.com/OaklandVegWeek" target="_blank"><i class="fa fa-instagram"></i> OaklandVegWeek</a>
