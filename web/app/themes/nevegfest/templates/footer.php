@@ -5,12 +5,11 @@
 				<img src="/app/themes/nevegfest/assets/img/carrot-footer.png" alt="" class="alignright" />
 				<div class="pad">
 					<h3>Location</h3>
-					<p>DCU CENTER<br />
-						50 Foster St<br />
-						Worcester, MA 01608
+					<p>Lake Merritt Amphitheater<br />
+						Between 12th St and 1st Ave on Lake Merritt Blvd<br />
+						Oakland, CA 94612
 					</p>
-					<p><a href="https://www.google.com/maps/place/DCU+Center/@42.265458,-71.79876,15z/data=!4m2!3m1!1s0x0:0xc9f01cb8c1571d7a" target="_blank" rel="nofollow">Directions</a> |
-						<a href="https://www.google.com/maps/search/parking+near+dcu+center/@42.2655405,-71.7987995,17z/data=!3m1!4b1?sa=X&ei=YS1-VP6cJYqpNojkgLgG&ved=0CJsBEMgT" target="_blank" rel="nofollow">Parking</a>
+					<p><a href="https://www.google.com/maps/place/Lake+Merritt+Amphitheater/@37.7990182,-122.2629028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f873433e19613:0x42896152be34d0d4" target="_blank" rel="nofollow">Directions</a> |
 					</p>
 				</div>
 			</div>
