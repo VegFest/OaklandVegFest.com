@@ -65,7 +65,7 @@
 							</div>
             </div>
             <div class="modal-footer">
-							<a href="http://OaklandVeg.com"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by Oakland Veg"></a><br />
+							<!-- <a href="http://OaklandVeg.com"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by Oakland Veg"></a><br /> -->
 							<a href="https://www.facebook.com/OakVegWeek" target="_blank"><i class="fa fa-facebook-square"></i> facebook.com/OakVegWeek</a>
 							<a href="https://www.twitter.com/OaklandVeg" target="_blank"><i class="fa fa-twitter"></i> @OaklandVeg</a>
             </div>
