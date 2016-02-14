@@ -9,7 +9,7 @@
 						Between 12th St and 1st Ave on Lake Merritt Blvd<br />
 						Oakland, CA 94612
 					</p>
-					<p><a href="https://www.google.com/maps/place/Lake+Merritt+Amphitheater/@37.7990182,-122.2629028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f873433e19613:0x42896152be34d0d4" target="_blank" rel="nofollow">Directions</a> |
+					<p><a href="https://www.google.com/maps/place/Lake+Merritt+Amphitheater/@37.7990182,-122.2629028,17z/data=!3m1!4b1!4m2!3m1!1s0x808f873433e19613:0x42896152be34d0d4" target="_blank" rel="nofollow">Directions</a>
 					</p>
 				</div>
 			</div>
