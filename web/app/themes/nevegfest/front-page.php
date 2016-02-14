@@ -46,11 +46,11 @@
 </div>
 <div class="slideshow">
 	<ul>
-		<li><img src="/app/themes/nevegfest/assets/img/attendees.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/oakland/Photo-01.jpg" alt="" />
 		<li><img src="/app/themes/nevegfest/assets/img/home-bbq2.jpg" alt="" />
-		<li><img src="/app/themes/nevegfest/assets/img/icecream-kid.jpg" alt="" />
-		<li><img src="/app/themes/nevegfest/assets/img/go-vegan.jpg" alt="" />
-		<li><img src="/app/themes/nevegfest/assets/img/cookies.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/oakland/Photo-02.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/oakland/Photo-03.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/oakland/Photo-04.jpg" alt="" />
 	</ul>
 </div>
 <img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
