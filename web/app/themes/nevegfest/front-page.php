@@ -56,12 +56,12 @@
 <img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
 <div id="testimonial" class="32">
 	<div class="container-fluid">
-		<p class="alignleft">"VegFest is one of the best events in the city! It combines education about compassionate practices, along with wonderful vendors who promote animal welfare, vegetarian and vegan living, in a festive and warm atmosphere. And the food is great too!"</p>
-		<p class="alignright">-Tina Zlody, Co-Founder of stART on the Street</p>
+		<p class="alignleft">"This fun, free event with its open-air atmosphere is designed so it's open to all -- with its beautiful location on the edge of Lake Merritt, locals might simply stumble upon it then spend the afternoon discovering the benefits of a plant-based lifestyle. It's outreach at its best, combining speakers, advocacy organizations, education, and vendors, to enlighten all who attend about veganism."</p>
+		<p class="alignright">-Miyoko Schinner, CEO & Founder, Miyoko's Kitchen, Inc.</p>
 	</div>
 </div>
 <div class="break" id="food"></div>
-<div id="sponsors">
+<!-- <div id="sponsors">
 	<h2>Our Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<h3>Gold Partners</h3>
@@ -78,7 +78,7 @@
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
 	</div>-->
-</div>
+</div> -->
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
