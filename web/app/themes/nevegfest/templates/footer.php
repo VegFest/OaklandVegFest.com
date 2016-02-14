@@ -9,7 +9,7 @@
 						50 Foster St<br />
 						Worcester, MA 01608
 					</p>
-					<p><a href="https://www.google.com/maps/place/DCU+Center/@42.265458,-71.79876,15z/data=!4m2!3m1!1s0x0:0xc9f01cb8c1571d7a" target="_blank" rel="nofollow">Directions</a> | 
+					<p><a href="https://www.google.com/maps/place/DCU+Center/@42.265458,-71.79876,15z/data=!4m2!3m1!1s0x0:0xc9f01cb8c1571d7a" target="_blank" rel="nofollow">Directions</a> |
 						<a href="https://www.google.com/maps/search/parking+near+dcu+center/@42.2655405,-71.7987995,17z/data=!3m1!4b1?sa=X&ei=YS1-VP6cJYqpNojkgLgG&ved=0CJsBEMgT" target="_blank" rel="nofollow">Parking</a>
 					</p>
 				</div>
@@ -21,7 +21,7 @@
 					<div id="mc_embed_signup">
 					<form action="//VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=42306f7ec2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
+
 <div class="mc-field-group">
 	<label for="mce-EMAIL" class="hidden">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@email.com">
@@ -54,30 +54,30 @@
             <div class="modal-body">
 							<div class="col-sm-6">
 							<h3>Contact Us</h3>
-							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>.</p>
+							<p class="gold">For general inquiries, contact <a href="mailto:info@oaklandveg.com">info@oaklandveg.com</a>.</p>
 							</div><div class="col-sm-6">
-              <h3>Connect with VegFest</h3>
+              <h3>Connect with OaklandVegFest</h3>
 							<div class="ctas">
-								<a class="cta" href="//www.facebook.com/events/1093809630649546/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
-								<a class="cta" href="https://twitter.com/hashtag/NEVegFest" target="_blank"><i class="fa fa-twitter"></i> #NEVegFest</a> 
-								<a class="cta" href="https://instagram.com/vegworcester" target="_blank"><i class="fa fa-instagram"></i> #NEVegFest</a>
+								<a class="cta" href="//www.facebook.com/events/818240381635344/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
+								<a class="cta" href="https://twitter.com/hashtag/OaklandVegFest" target="_blank"><i class="fa fa-twitter"></i> #OaklandVegFest</a>
+								<a class="cta" href="https://instagram.com/OaklandVegWeek" target="_blank"><i class="fa fa-instagram"></i> OaklandVegWeek</a>
 							</div>
 							</div>
             </div>
             <div class="modal-footer">
-							<a href="http://vegworcester.com"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by VegWorcester"></a><br />
-							<a href="https://www.facebook.com/vegworcester" target="_blank"><i class="fa fa-facebook-square"></i> facebook.com/VegWorcester</a>
-							<a href="https://www.twitter.com/vegworcester" target="_blank"><i class="fa fa-twitter"></i> @VegWorcester</a> 
+							<a href="http://OaklandVeg.com"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by Oakland Veg"></a><br />
+							<a href="https://www.facebook.com/OakVegWeek" target="_blank"><i class="fa fa-facebook-square"></i> facebook.com/OakVegWeek</a>
+							<a href="https://www.twitter.com/OaklandVeg" target="_blank"><i class="fa fa-twitter"></i> @OaklandVeg</a>
             </div>
           </div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+					<script>
+					  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-60447757-1', 'auto');
-  ga('send', 'pageview');
+					  ga('create', 'UA-73773310-1', 'auto');
+					  ga('send', 'pageview');
 
-</script>
-<?php wp_footer(); ?>
+					</script>
+					<?php wp_footer(); ?>
