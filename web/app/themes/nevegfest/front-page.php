@@ -53,7 +53,7 @@
 		<li><img src="/app/themes/nevegfest/assets/img/oakland/Photo-04.jpg" alt="" />
 	</ul>
 </div>
-<img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
+<!-- <img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" /> -->
 <div id="testimonial" class="32">
 	<div class="container-fluid">
 		<p class="alignleft">"This fun, free event with its open-air atmosphere is designed so it's open to all -- with its beautiful location on the edge of Lake Merritt, locals might simply stumble upon it then spend the afternoon discovering the benefits of a plant-based lifestyle. It's outreach at its best, combining speakers, advocacy organizations, education, and vendors, to enlighten all who attend about veganism."</p>
