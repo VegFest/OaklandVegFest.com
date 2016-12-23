@@ -57,7 +57,7 @@
 							</div><div class="col-sm-6">
               <h3>Connect with OaklandVegFest</h3>
 							<div class="ctas">
-								<a class="cta" href="//www.facebook.com/events/818240381635344/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
+								<!-- <a class="cta" href="//www.facebook.com/events/818240381635344/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a> -->
 								<a class="cta" style="font-size: 14px" href="https://twitter.com/hashtag/OaklandVegFest" target="_blank"><i class="fa fa-twitter"></i> #OaklandVegFest</a>
 								<a class="cta" style="font-size: 14px" href="https://instagram.com/OaklandVegWeek" target="_blank"><i class="fa fa-instagram"></i> OaklandVegWeek</a>
 							</div>
