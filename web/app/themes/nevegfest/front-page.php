@@ -70,6 +70,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wellfed-logo.png" class="square" alt="A Well-Fed World" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegfund.png" class="square" alt="VegFund" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegnews.png" class="square" alt="VegNews" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/standford-inn.png" class="square" alt="Standford Inn" />
 	</div>
 <!--	<div class="col-xs-12" id="silver">
 		<div class="container-fluid">
