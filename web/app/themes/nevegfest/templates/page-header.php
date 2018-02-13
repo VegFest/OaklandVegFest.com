@@ -9,7 +9,7 @@
 
 				<!-- <a class="cta" href="/sponsor-and-exhibitor-application/">Sponsor & Exhibit Sign Up</a> -->
 			</div>
-			<h2>May 20, 2017 &middot; 11AM-5PM &middot; Oakland, CA</h2>
+			<h2>Saturday May 19, 2018 &middot; 11AM-5PM &middot; Oakland, CA</h2>
 		<?php } else { ?>
 			<h2><?= the_title(); ?></h2>
 		<?php } ?>
