@@ -61,10 +61,10 @@
 	</div>
 </div>
 <div class="break" id="food"></div>
- <div id="sponsors">
+ <!-- <div id="sponsors">
 	<h2>Our Sponsors</h2>
 	<div class="col-xs-12" id="gold">
-		<!-- <h3>Gold Partners</h3> -->
+		<h3>Gold Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/ffac-logo.png" alt="Factory Farming Awareness Coalition" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/greenmonday-logo.png" class="square" alt="Green Monday" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wellfed-logo.png" class="square" alt="A Well-Fed World" />
@@ -72,18 +72,8 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegnews.png" class="square" alt="VegNews" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/standford-inn.png" class="square" alt="Standford Inn" />
 	</div>
-<!--	<div class="col-xs-12" id="silver">
-		<div class="container-fluid">
-			<h3>Silver Partners</h3>
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
-		</div>
-	</div>
-	<div class="col-xs-12" id="bronze">
-		<h3>Bronze Partners</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
-	</div>-->
 
-</div> -->
+	</div>  -->
 			<!-- <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
