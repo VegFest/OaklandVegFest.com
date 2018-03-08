@@ -5,9 +5,8 @@
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
 				<!-- <a class="cta" href="//www.facebook.com/events/818240381635344/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a> -->
-        <a class="cta" href="//www.youtube.com/watch?v=kAU7N_8fqLc" target="_blank"><i class="fa  fa-youtube-square"></i> Watch our video</a>
-
-				<!-- <a class="cta" href="/sponsor-and-exhibitor-application/">Sponsor & Exhibit Sign Up</a> -->
+        <a class="cta red" href="//www.youtube.com/watch?v=kAU7N_8fqLc" target="_blank"><i class="fa  fa-youtube-square"></i> Watch our video</a>
+				<a class="cta" href="/apply/">Sponsor & Exhibit Sign Up</a>
 			</div>
 			<h2>Saturday May 19, 2018 &middot; 11AM-5PM &middot; Oakland, CA</h2>
 		<?php } else { ?>
