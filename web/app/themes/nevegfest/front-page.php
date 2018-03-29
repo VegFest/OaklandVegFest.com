@@ -64,7 +64,7 @@
  <div id="sponsors">
 	<h2>Our Sponsors</h2>
 	<div class="col-xs-12" id="gold">
-		<h3>Gold Partners</h3>
+		<!-- <h3>Gold Partners</h3> -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/ffac-logo.png" alt="Factory Farming Awareness Coalition" />
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/greenmonday-logo.png" class="square" alt="Green Monday" /> -->
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/wellfed-logo.png" class="square" alt="A Well-Fed World" /> -->
