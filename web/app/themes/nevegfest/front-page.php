@@ -71,6 +71,9 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegfund.png" class="square" alt="VegFund" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegnews.png" class="square" alt="VegNews" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/standford-inn.png" class="square" alt="Standford Inn" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/gts-kombucha.png" class="square" alt="GTS Kombucha" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/miyokos.png" class="square" alt="Miyokos" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/timeless.png" class="square" alt="Timeless" />
 	</div>
 
 	</div>
